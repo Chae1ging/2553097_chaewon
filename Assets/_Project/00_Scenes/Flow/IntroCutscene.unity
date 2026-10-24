@@ -1105,7 +1105,7 @@ RectTransform:
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: -60, y: -50}
-  m_SizeDelta: {x: 214, y: 87}
+  m_SizeDelta: {x: 349.295, y: 142.003}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1314353523
 MonoBehaviour:
@@ -1252,7 +1252,17 @@ MonoBehaviour:
     video: {fileID: 0}
   - image: {fileID: 21300000, guid: 29a56b1aa0beece41ae339d27ddb9d75, type: 3}
     video: {fileID: 0}
-  - image: {fileID: 0}
+  - image: {fileID: 21300000, guid: 7fc9f09c426c0124b9b915586166e12a, type: 3}
+    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: e9acec1eb9f0c5244a83ac1a7ff6deb0, type: 3}
+    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 0d368a163866d3747ae2262d532e710f, type: 3}
+    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: eebf592f55e2e2342bfcebafb85d29db, type: 3}
+    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 274cc985f373ad644b71176bb487c973, type: 3}
+    video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
+  - image: {fileID: 21300000, guid: 9e66f7d2ba560724797414dff70b4e4a, type: 3}
     video: {fileID: 32900000, guid: ec7b58a1683cebb48aa4ab59525e25e6, type: 3}
   prevButtonObject: {fileID: 757331505}
   nextSceneName: BackgroundTest
